@@ -7,3 +7,5 @@
 👩‍💻 If you'd like to work with me, please contact me on [LinkedIn](https://www.linkedin.com/in/lorena-ciutacu/) or [on my website](https://lorenaciutacu.com/contact/).
 
 📷 You can follow my progress and interests on [instagram](https://www.instagram.com/datalingo/) and [my blog](https://lorenaciutacu.com/category/blog/).
+
+⬇️ Have a look at my projects below!
