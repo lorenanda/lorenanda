@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world 👋
 
 🤖 I'm a data scientist and NLP developer with a background in translation and linguistics. Quite predictably, my main interests are machine translation and conversational AI, but also data science for social causes. I mainly use Python, but sometimes also R.
 
