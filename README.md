@@ -30,19 +30,17 @@
   * *Tools: pandas, matplotlib*
 
 ### 📚 Courses I took
-* Data Analysis & Visualization
+#### Data Analysis & Visualization
   * [Time Series Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/4f8b8f60c2282b82537915db89e7bce08dede023)
   * [Pandas](https://www.kaggle.com/learn/certification/anerol/pandas)
   * [Applied statistical modeling for data analysis in R](https://www.udemy.com/certificate/UC-MDY6IEAU/) 
   * [Data visualization with Python and Matplotlib](https://www.udemy.com/certificate/UC-7UCDPCBX/)
-* Natural Language Processing
+#### Natural Language Processing
   * [Natural language processing with deep learning in Python](https://www.udemy.com/course/natural-language-processing-with-deep-learning-in-python/) 
   * [Building Chatbots in Python](https://www.datacamp.com/statement-of-accomplishment/course/fec574258c8d57c5e902e4fa010c545fae715d69)
   * [Spoken language processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/f0044373c7359dc26b2bf263bc8d8935cfea669f)
   * [Machine translation in Python](https://www.datacamp.com/statement-of-accomplishment/course/587fc72502ebe733f105122334418427f71eab02)
   * [Natural language processing](https://www.kaggle.com/learn/certification/anerol/natural-language-processing)
-* Marketing Analytics
+#### Marketing Analytics
   * [Analyzing marketing campaigns with pandas](https://www.datacamp.com/statement-of-accomplishment/course/2f266fc19a584bb2a786ea32b006f9dd658a91e3)
   * [Customer analytics and A/B testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/b94809939d297eb1dc7b8fb8a2fa2fdbe981d912)
-* [Advanced SQL](https://www.kaggle.com/learn/certification/anerol/advanced-sql)
-* [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/879c91ee15ceeddf74c2a82e39c2c6652fd95e6e) 
