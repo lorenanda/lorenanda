@@ -14,9 +14,7 @@
   * [Exploring my IMDb watchlist](https://github.com/lorenanda/imdb)
   * [Exploring my Goodreads library](https://github.com/lorenanda/goodreads)
   * [Explorative analysis of endangered languages](https://github.com/lorenanda/world-languages)
-  * [A visual history of Nobel Prize winners](https://github.com/lorenanda/datacamp-projects/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners) (datacamp project)
-  * [Dr. Semmelweis and the discovery of handwashing](https://github.com/lorenanda/datacamp-projects/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) (datacamp project)
-  * [Exploring 67 years of LEGO](https://github.com/lorenanda/datacamp-projects/tree/master/Exploring%2067%20years%20of%20LEGO) (datacamp project)
+  * [Datacamp projects](https://github.com/lorenanda/datacamp-projects/)
 #### Natural Language Processing
   * [Named Entity Recognition on English/German newspaper articles](https://github.com/lorenanda/text-analysis)
   * [Sentiment analysis on German reviews](https://github.com/lorenanda/Sentimentanalyse-HU-SS20)
@@ -25,9 +23,6 @@
   * *Tools: NLTK, VADER, TextBlob, SpaCy*
 #### Machine Learning
   * [Predicting Boston house prices](https://github.com/lorenanda/boston-house-prices)
-  * [Find movie similarity from plot summaries](https://github.com/lorenanda/datacamp-projects/tree/master/Find%20Movie%20Similarity%20from%20Plot%20Summaries) (datacamp project)
-  * [Predicting credit card approvals](https://github.com/lorenanda/datacamp-projects/tree/master/Predicting%20Credit%20Card%20Approvals) (datacamp project)
-  * [Give life: predict blood donations](https://github.com/lorenanda/datacamp-projects/tree/master/Give%20Life:%20Predict%20Blood%20Donations) (datacamp project)
   * *Tools: pandas, numpy, scikit-learn*
 * Marketing Analytics
   * [Generating keywords for Google Ads](https://github.com/lorenanda/datacamp-projects/tree/master/Generating%20Keywords%20for%20Google%20Ads) (datacamp project)
