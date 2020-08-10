@@ -24,7 +24,7 @@
 #### Machine Learning
   * [Predicting Boston house prices](https://github.com/lorenanda/boston-house-prices)
   * *Tools: pandas, numpy, scikit-learn*
-* Marketing Analytics
+#### Marketing Analytics
   * [Generating keywords for Google Ads](https://github.com/lorenanda/datacamp-projects/tree/master/Generating%20Keywords%20for%20Google%20Ads) (datacamp project)
   * [Mobile games A/B testing](https://github.com/lorenanda/datacamp-projects/tree/master/Mobile%20Games%20AB%20Testing) (datacamp project)
   * *Tools: pandas, matplotlib*
