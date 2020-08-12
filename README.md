@@ -36,7 +36,7 @@
   * [Applied statistical modeling for data analysis in R](https://www.udemy.com/certificate/UC-MDY6IEAU/) 
   * [Data visualization with Python and Matplotlib](https://www.udemy.com/certificate/UC-7UCDPCBX/)
 #### Natural Language Processing
-  * [Natural language processing with deep learning in Python](https://www.udemy.com/course/natural-language-processing-with-deep-learning-in-python/) 
+  * [Natural language processing with deep learning in Python](https://www.udemy.com/certificate/UC-f9b128ca-8ff0-40d8-9e96-080105a5c2f7/) 
   * [Building Chatbots in Python](https://www.datacamp.com/statement-of-accomplishment/course/fec574258c8d57c5e902e4fa010c545fae715d69)
   * [Spoken language processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/f0044373c7359dc26b2bf263bc8d8935cfea669f)
   * [Machine translation in Python](https://www.datacamp.com/statement-of-accomplishment/course/587fc72502ebe733f105122334418427f71eab02)
