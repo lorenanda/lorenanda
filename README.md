@@ -11,7 +11,7 @@
 ⬇️ Have a look at my projects below to get an idea of what I'm interested in!
 
 #### Data Analysis & Visualization
-  * [Exploring my IMDb watchlist](https://github.com/lorenanda/imdb)
+  * [Web-Scraping IMDb and analysis of my watchlist](https://github.com/lorenanda/imdb)
   * [Exploring my Goodreads library](https://github.com/lorenanda/goodreads)
   * [Explorative analysis of endangered languages](https://github.com/lorenanda/world-languages)
 #### Natural Language Processing
