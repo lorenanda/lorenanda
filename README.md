@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-🤖 I'm a data scientist and NLP developer with a background in translation and linguistics. Quite predictably, my main interests are machine translation and conversational AI, but also data science for social causes. I mainly use Python, but sometimes also R.
+🤖 I'm a data scientist and Python developer with a background in translation and linguistics. As you might have guessed, my main interest is in NLP, but I also enjoy automating tasks and optimizing processes with Python. So far, I've applied my skills mainly in the online marketing field at two startups in Berlin.
 
 👩‍👩‍👧‍👧 Besides, I contribute as a Marketing Coordinator to the Berlin Chapter of Women in Data.
 
