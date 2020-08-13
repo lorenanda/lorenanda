@@ -14,20 +14,14 @@
   * [Exploring my IMDb watchlist](https://github.com/lorenanda/imdb)
   * [Exploring my Goodreads library](https://github.com/lorenanda/goodreads)
   * [Explorative analysis of endangered languages](https://github.com/lorenanda/world-languages)
-  * [Datacamp projects](https://github.com/lorenanda/datacamp-projects/)
 #### Natural Language Processing
   * [Named Entity Recognition on English/German newspaper articles](https://github.com/lorenanda/text-analysis)
   * [Sentiment analysis on German reviews](https://github.com/lorenanda/Sentimentanalyse-HU-SS20)
-  * [Sentiment analysis on hotel reviews](https://github.com/lorenanda/text-analysis)
-  * [Word frequency in *Moby Dick*](https://github.com/lorenanda/datacamp-projects/tree/master/Word%20Frequency%20in%20Moby%20Dick) (datacamp project)
-  * *Tools: NLTK, VADER, TextBlob, SpaCy*
+  * [Word frequency in *Moby Dick*](https://github.com/lorenanda/datacamp-projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
 #### Machine Learning
   * [Predicting Boston house prices](https://github.com/lorenanda/boston-house-prices)
-  * *Tools: pandas, numpy, scikit-learn*
-#### Marketing Analytics
-  * [Generating keywords for Google Ads](https://github.com/lorenanda/datacamp-projects/tree/master/Generating%20Keywords%20for%20Google%20Ads) (datacamp project)
-  * [Mobile games A/B testing](https://github.com/lorenanda/datacamp-projects/tree/master/Mobile%20Games%20AB%20Testing) (datacamp project)
-  * *Tools: pandas, matplotlib*
+#### Automation
+  * [](https://github.com/lorenanda/python-projects)
 
 ### 📚 Courses I took
 #### Data Analysis & Visualization
@@ -41,6 +35,4 @@
   * [Spoken language processing in Python](https://www.datacamp.com/statement-of-accomplishment/course/f0044373c7359dc26b2bf263bc8d8935cfea669f)
   * [Machine translation in Python](https://www.datacamp.com/statement-of-accomplishment/course/587fc72502ebe733f105122334418427f71eab02)
   * [Natural language processing](https://www.kaggle.com/learn/certification/anerol/natural-language-processing)
-#### Marketing Analytics
-  * [Analyzing marketing campaigns with pandas](https://www.datacamp.com/statement-of-accomplishment/course/2f266fc19a584bb2a786ea32b006f9dd658a91e3)
-  * [Customer analytics and A/B testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/b94809939d297eb1dc7b8fb8a2fa2fdbe981d912)
+#### Automation
