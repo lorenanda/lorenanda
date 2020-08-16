@@ -20,7 +20,7 @@
   * [Word frequency in *Moby Dick*](https://github.com/lorenanda/datacamp-projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
 #### Machine Learning
   * [Predicting Boston house prices](https://github.com/lorenanda/boston-house-prices)
-  * [Alzheimer's](https://github.com/lorenanda/alzheimers)
+  * [Predicting Alzheimer's onset and classifying patients](https://github.com/lorenanda/alzheimers)
 #### Automation
   * [](https://github.com/lorenanda/python-projects)
 
