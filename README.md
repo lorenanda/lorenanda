@@ -1,12 +1,12 @@
 ## Hello world 👋
 
-🤖 I'm a data scientist and Python developer with a background in translation and linguistics. As you might have guessed, my main interest is in NLP, but I also enjoy automating tasks and optimizing processes with Python. So far, I've applied my skills mainly in the online marketing field at two startups in Berlin.
+🤖 I'm a Data Scientist and Python developer with a background in translation and linguistics. As you might have guessed, my main interest is in NLP (especially machine translation and chatbots), but enjoy automating and optimizing processes with Python just as much. So far, I've applied my skills mainly in the online marketing area at two digital startups in Berlin.
 
 👩‍👩‍👧‍👧 Besides, I contribute as a Marketing Coordinator to the Berlin Chapter of Women in Data.
 
-👩‍💻 If you'd like to work with me, please contact me on [LinkedIn](https://www.linkedin.com/in/lorena-ciutacu/) or [on my website](https://lorenaciutacu.com/contact/).
+📷 You can follow my data journey on [Instagram](https://www.instagram.com/datalingo/) and [my blog](https://lorenaciutacu.com/category/blog/).
 
-📷 You can follow my progress and interests on [instagram](https://www.instagram.com/datalingo/) and [my blog](https://lorenaciutacu.com/category/blog/).
+👩‍💻 Don't hesitate to get in touch with me on [LinkedIn](https://www.linkedin.com/in/lorena-ciutacu/) or [on my website](https://lorenaciutacu.com/contact/).
 
 ⬇️ Have a look at my projects below to get an idea of what I'm interested in!
 
