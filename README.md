@@ -18,8 +18,3 @@
   * [Named Entity Recognition on English/German newspaper articles](https://github.com/lorenanda/text-analysis)
   * [Sentiment analysis on German reviews](https://github.com/lorenanda/Sentimentanalyse-HU-SS20)
   * [Word frequency in *Moby Dick*](https://github.com/lorenanda/datacamp-projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
-#### Machine Learning
-  * [Clustering Romanian psych-verbs (MA Thesis project)](https://github.com/lorenanda/psych-verbs)
-  * [Predicting Alzheimer's onset and classifying patients](https://github.com/lorenanda/alzheimers)
-#### Automation
-  * [](https://github.com/lorenanda/python-projects)
