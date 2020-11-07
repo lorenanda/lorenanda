@@ -4,6 +4,6 @@
 
 👩‍👩‍👧‍👧 Besides, I contribute as a Marketing Coordinator to the Berlin Chapter of Women in Data.
 
-📷 Follow my data explorations on <a href="https://www.instagram.com/datalingo/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a> [Instagram](https://www.instagram.com/datalingo/) and read about my projects on [my blog](https://lorenaciutacu.com/category/blog/).
+📷 Follow my data explorations on [Instagram](https://www.instagram.com/datalingo/) and read about my projects on [my blog](https://lorenaciutacu.com/category/blog/).
 
 📨 Don't hesitate to get in touch with me on [LinkedIn](https://www.linkedin.com/in/lorena-ciutacu/) or [on my website](https://lorenaciutacu.com/contact/).
