@@ -6,4 +6,4 @@
 
 📷 Follow my data explorations on [Instagram](https://www.instagram.com/datalingo/) and read about my projects on [my blog](https://lorenaciutacu.com/category/blog/).
 
-📨 Don't hesitate to get in touch with me on [LinkedIn](https://www.linkedin.com/in/lorena-ciutacu/) or [on my website](https://lorenaciutacu.com/contact/).
+📨 Don't hesitate to get in touch with me on [LinkedIn](https://www.linkedin.com/in/lorena-ciutacu/) or [send me an email](mailto:contact@lorenaciutacu.com).
