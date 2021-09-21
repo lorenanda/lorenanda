@@ -34,9 +34,9 @@ I'm a Data Scientist & Technical Writer with a focus on NLP and workflow automat
 </details>
 
 <details>
-<summary>Articles</summary>
+<summary>Writing</summary>
 
-<a href="https://lorenaciutacu.com/">
+<a href="https://lorenaciutacu.com/work/">
     <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
 
