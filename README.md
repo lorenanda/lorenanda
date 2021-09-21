@@ -1,9 +1,9 @@
 ## Hi there 👋🏼
 
-I'm Lorena – a Data Scientist & Python Developer with an academic background in Translation & Linguistics. I specialize in NLP (especially speech recognition, machine translation, and chatbots), but I enjoy analytics and workflow automation just as much.
+I'm a Data Scientist & Technical Writer with a focus on NLP and workflow automation. Basically, I'm striving to make sense of the world with data, build solutions to more or less important problems, and share my insights with others – whether it's through documentation or blog posts.
 
 <details>
-<summary>Toolkit</summary>
+<summary>Stack</summary>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -30,18 +30,6 @@ I'm Lorena – a Data Scientist & Python Developer with an academic background i
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-</details>
-
-
-<details>
-<summary> Learning</summary>
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 </details>
 
