@@ -63,6 +63,3 @@ I'm a Data Scientist & Technical Writer with a focus on NLP and workflow automat
 
 </details>
 
-
-[![lorenanda github stats](https://github-readme-stats.vercel.app/api?username=lorenanda&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
