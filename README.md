@@ -72,7 +72,7 @@ I'm a Data Scientist & Technical Writer with a focus on NLP and workflow automat
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.twitter.com/alciutacu/">
+<a href="https://www.twitter.com/bayesnbagels/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
